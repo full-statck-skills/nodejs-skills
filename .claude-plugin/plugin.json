@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-skills",
+  "version": "1.0.0",
+  "description": "Node.js backend framework skills",
+  "author": {
+    "name": "PartMeAI",
+    "email": "partmeai@gmail.com"
+  },
+  "homepage": "https://github.com/full-statck-skills/nodejs-skills",
+  "repository": "https://github.com/full-statck-skills/nodejs-skills",
+  "source": "./",
+  "skills": [
+    "./skills/express",
+    "./skills/fastify",
+    "./skills/koa",
+    "./skills/nestjs"
+  ]
+}
